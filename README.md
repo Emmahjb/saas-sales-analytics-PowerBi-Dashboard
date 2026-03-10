@@ -5,8 +5,7 @@ profitability, customer performance, and industry demand. It provides insights t
 about product performance, regional sales, and customer segmentation.
 
 ## Dashboard Preview
-
-
+Saas Sales Analytics.pdf
 
  **Project Overview**
 This project is an interactive executive dashboard built in Power BI to analyze global sales performance, profitability margins, and the financial impact of discounting strategies. It transforms raw, granular sales data into a high-level strategic view, enabling stakeholders to identify high-value customer segments and optimize revenue streams. It  demonstrates core competencies in data cleaning, data modeling, DAX (Data Analysis Expressions), and business intelligence visualization skills that serve as the foundation for complex financial reporting, unit economics tracking, and cloud cost optimization (FinOps).
