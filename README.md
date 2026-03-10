@@ -19,28 +19,28 @@ Finance industry contributes the largest revenue share
 Top enterprise customers drive significant sales
 Discounts doesnt translate to more sales but less profits instead
 
- **Technical Stack & Skills Demonstrated**
+ ## Technical Stack & Skills Demonstrated
 Tool: Microsoft Power BI
 Data Transformation: Power Query (Data cleaning, formatting, and hierarchy creation)
 Calculations: DAX (Custom measures for Profit Margin %, YoY trends)
 
-**Visualization Techniques**:
+## Visualization Techniques
 Interactive Slicers (Yearly and Regional filtering)
 Hierarchical Drill-downs (Year > Quarter > Month trend analysis)
 Scatter Plot correlation (Discount vs. Profitability mapping)
 High-contrast UI/UX design for executive readability
 
-**Dashboard Features (KPIs)**
+## Dashboard Features (KPIs)
 Executive Summary Cards: Total Sales, Overall Profit, Total Orders and Blended Profit Margin.
 Discount Impact Analysis: A scatter plot visualizing the correlation between discount percentages and actual profit yields to prevent margin erosion.
 Sales Trend : A line chart utilizing date hierarchies to track historical performance and identify seasonal spikes.
 Categorical Breakdown: Horizontal bar charts and treemaps detailing Sales by Industry, Profit Margin by Product, and Top Customers to easily identify outliers and top performers.
 
- **Strategic Application: From BI to FinOps**
+ ## Strategic Application
 The methodologies applied in this project—aggregating massive datasets, tagging categorical data, and visualizing financial efficiency—are directly translatable to Cloud Operations and FinOps. The ability to identify "waste" (unprofitable discounts) and highlight "efficiency" (high-margin products) mirrors the process of right-sizing cloud infrastructure, analyzing AWS Cost and Usage Reports (CUR), and optimizing multi-cloud spending across enterprise environments.
 
-**Let's Connect**
-Emmah
+## Let's Connect
+Emmah Githinji 
 Multi-Cloud Certified: AWS Certified Cloud Practitioner | Azure Fundamentals (AZ-900)
 Data & BI Certified: IBM Data Analytics Professional
 LinkedIn: https://www.linkedin.com/in/emmah-githinji-4556b3102
